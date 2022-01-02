@@ -6,5 +6,6 @@ The plain text is encoded to numbers: a=00 b=01 c=02 d=03.... Then compression i
 
 Review the **RSA_cryptosystem_Redacted.pdf** to understand the algorithm. 
 
+Run the script: **RSA encryption Compression.py**
 
 ![alt text](https://github.com/Nishaant215/RSA_Encryption_with_Compression/blob/main/RSA_Encryption_Compression.jpg)
